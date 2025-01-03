@@ -1,0 +1,201 @@
+"Patient_ID","Name","Gender","Visit_Date","Department","Emotion","Cleanliness","StaffFriendliness","Billing","ScopeOfImprovement","SatisfactionScore"
+1,"Isha","Female","28-05-2023","Orthopedics","Frustrated",5,4,1,"Better cleanliness",4
+2,"Naveen","Male","16-08-2023","General Medicine","Frustrated",3,2,1,"More comfortable waiting area",3
+3,"Naveen","Male","19-03-2023","Dermatology","Happy",5,3,1,"Improve billing clarity",4
+4,"Amit","Female","16-03-2023","Cardiology","Angry",4,1,4,"Improve waiting time",5
+5,"Naveen","Male","04-10-2023","Nephrology","Confused",4,5,2,"Improve waiting time",3
+6,"Isha","Female","09-06-2023","General Medicine","Satisfied",1,5,2,"More comfortable waiting area",3
+7,"Amit","Female","05-11-2023","Dermatology","Happy",3,5,5,"Better cleanliness",1
+8,"Neha","Male","03-05-2023","Orthopedics","Confused",5,5,3,"More comfortable waiting area",4
+9,"Naveen","Female","07-11-2023","Nephrology","Frustrated",5,1,2,"Staff behavior training",4
+10,"Sita","Male","24-04-2023","Dermatology","Confused",4,1,4,"Better cleanliness",4
+11,"Priya","Male","08-08-2023","Orthopedics","Confused",3,2,2,"More comfortable waiting area",5
+12,"Kavita","Female","14-10-2023","Cardiology","Happy",4,2,2,"Improve waiting time",1
+13,"Naveen","Male","27-08-2023","Nephrology","Happy",2,2,4,"Improve waiting time",5
+14,"Varun","Female","16-09-2023","Orthopedics","Happy",1,4,3,"Staff behavior training",3
+15,"Varun","Female","06-10-2023","Orthopedics","Confused",3,1,3,"More comfortable waiting area",2
+16,"Rohit","Male","02-01-2023","General Medicine","Frustrated",4,3,1,"Staff behavior training",1
+17,"Isha","Male","09-12-2023","Cardiology","Confused",3,4,3,"Better cleanliness",4
+18,"Rohit","Female","11-12-2023","Nephrology","Satisfied",4,1,2,"Staff behavior training",4
+19,"Varun","Male","23-08-2023","General Medicine","Angry",2,2,3,"Staff behavior training",4
+20,"Isha","Male","11-05-2023","Cardiology","Frustrated",4,1,5,"More comfortable waiting area",3
+21,"Priya","Male","03-02-2023","General Medicine","Satisfied",5,4,1,"Improve billing clarity",4
+22,"Naveen","Female","21-08-2023","Cardiology","Angry",4,3,4,"Improve waiting time",2
+23,"Manoj","Male","30-11-2023","Orthopedics","Confused",1,1,2,"Better cleanliness",1
+24,"Varun","Male","26-02-2023","Orthopedics","Angry",1,4,3,"Improve waiting time",1
+25,"Pooja","Male","26-01-2023","Dermatology","Angry",4,2,3,"Improve billing clarity",1
+26,"Pooja","Female","02-08-2023","Dermatology","Satisfied",3,5,4,"Staff behavior training",1
+27,"Manoj","Male","24-05-2023","Cardiology","Happy",2,4,1,"Improve billing clarity",3
+28,"Ajay","Male","08-10-2023","Dermatology","Satisfied",5,3,1,"Staff behavior training",5
+29,"Naveen","Female","13-01-2023","Orthopedics","Happy",3,3,3,"Staff behavior training",4
+30,"Priya","Female","22-02-2023","Orthopedics","Satisfied",4,5,5,"Improve waiting time",4
+31,"Rahul","Male","14-09-2023","Nephrology","Frustrated",5,4,1,"More comfortable waiting area",4
+32,"Suresh","Female","22-06-2023","Orthopedics","Confused",4,2,4,"Staff behavior training",3
+33,"Isha","Male","05-07-2023","General Medicine","Frustrated",2,4,5,"Improve billing clarity",5
+34,"Ravi","Male","29-11-2023","Nephrology","Confused",3,3,3,"Better cleanliness",5
+35,"Varun","Male","30-01-2023","Cardiology","Happy",5,4,5,"Better cleanliness",5
+36,"Sita","Female","14-09-2023","Dermatology","Confused",2,3,1,"Better cleanliness",2
+37,"Suresh","Female","06-12-2023","Dermatology","Satisfied",4,3,4,"Improve waiting time",4
+38,"Varun","Female","19-01-2023","Cardiology","Angry",4,5,2,"More comfortable waiting area",1
+39,"Sita","Female","08-03-2023","General Medicine","Angry",4,2,1,"Staff behavior training",5
+40,"Suresh","Female","05-11-2023","Nephrology","Satisfied",5,5,2,"More comfortable waiting area",4
+41,"Manoj","Male","13-10-2023","Nephrology","Confused",1,5,4,"Staff behavior training",2
+42,"Ajay","Male","18-06-2023","Orthopedics","Frustrated",3,1,4,"Better cleanliness",4
+43,"Neha","Female","05-07-2023","Nephrology","Happy",5,5,2,"Staff behavior training",1
+44,"Priya","Female","20-05-2023","Cardiology","Frustrated",4,1,1,"Improve waiting time",2
+45,"Ravi","Female","03-11-2023","General Medicine","Satisfied",2,3,4,"Staff behavior training",5
+46,"Varun","Male","04-07-2023","Cardiology","Frustrated",1,1,1,"Improve waiting time",5
+47,"Varun","Female","22-02-2023","General Medicine","Satisfied",4,4,4,"More comfortable waiting area",2
+48,"Isha","Male","03-11-2023","Dermatology","Confused",3,2,1,"Improve billing clarity",1
+49,"Neha","Male","29-01-2023","Cardiology","Happy",3,3,2,"Improve billing clarity",3
+50,"Pooja","Male","04-06-2023","General Medicine","Happy",4,1,2,"Staff behavior training",4
+51,"Rohit","Male","08-06-2023","General Medicine","Happy",2,1,2,"Staff behavior training",1
+52,"Neha","Female","31-03-2023","Cardiology","Satisfied",2,1,3,"Better cleanliness",3
+53,"Sonia","Male","07-12-2023","Dermatology","Confused",5,3,2,"Staff behavior training",1
+54,"Ajay","Female","11-06-2023","Cardiology","Angry",3,5,1,"Staff behavior training",5
+55,"Isha","Male","09-12-2023","Cardiology","Angry",3,5,4,"Improve waiting time",4
+56,"Ajay","Male","18-05-2023","General Medicine","Satisfied",5,1,2,"Better cleanliness",2
+57,"Naveen","Female","24-06-2023","Nephrology","Satisfied",3,2,1,"Improve waiting time",4
+58,"Rohit","Male","25-03-2023","Cardiology","Angry",1,4,2,"More comfortable waiting area",2
+59,"Kavita","Male","18-05-2023","Cardiology","Frustrated",2,5,1,"Improve billing clarity",2
+60,"Anil","Female","14-10-2023","Dermatology","Confused",5,5,1,"More comfortable waiting area",2
+61,"Sita","Female","15-04-2023","Cardiology","Satisfied",1,2,5,"Improve billing clarity",4
+62,"Sita","Male","17-11-2023","Orthopedics","Happy",3,1,1,"Better cleanliness",3
+63,"Rahul","Male","10-01-2023","Nephrology","Satisfied",1,4,5,"Better cleanliness",3
+64,"Suresh","Male","15-05-2023","Orthopedics","Frustrated",3,4,3,"Improve waiting time",2
+65,"Amit","Male","09-03-2023","Dermatology","Frustrated",2,2,1,"More comfortable waiting area",4
+66,"Kavita","Female","13-03-2023","Cardiology","Frustrated",5,1,4,"Staff behavior training",1
+67,"Anil","Male","06-03-2023","Dermatology","Frustrated",4,4,2,"More comfortable waiting area",3
+68,"Suresh","Male","20-06-2023","Nephrology","Happy",2,3,3,"Improve billing clarity",1
+69,"Naveen","Male","02-02-2023","General Medicine","Frustrated",3,1,3,"Staff behavior training",4
+70,"Isha","Female","26-01-2023","Orthopedics","Happy",4,5,2,"Staff behavior training",3
+71,"Anjali","Female","05-09-2023","Dermatology","Confused",2,3,5,"Improve billing clarity",3
+72,"Ravi","Male","03-03-2023","General Medicine","Confused",4,4,4,"Staff behavior training",5
+73,"Varun","Female","06-01-2023","Dermatology","Happy",2,2,2,"Better cleanliness",5
+74,"Suresh","Female","06-03-2023","Cardiology","Satisfied",2,5,5,"Staff behavior training",1
+75,"Ravi","Male","07-08-2023","General Medicine","Satisfied",3,2,1,"More comfortable waiting area",5
+76,"Sonia","Female","17-02-2023","Orthopedics","Happy",4,3,5,"Improve waiting time",4
+77,"Naveen","Female","31-07-2023","General Medicine","Confused",5,5,2,"Better cleanliness",1
+78,"Ravi","Male","04-01-2023","General Medicine","Confused",3,2,3,"Staff behavior training",1
+79,"Sonia","Female","22-03-2023","Cardiology","Happy",3,3,5,"Improve waiting time",4
+80,"Sonia","Female","01-01-2023","Cardiology","Satisfied",2,3,2,"More comfortable waiting area",2
+81,"Rina","Male","04-02-2023","Dermatology","Frustrated",4,2,5,"More comfortable waiting area",4
+82,"Ravi","Male","20-05-2023","Dermatology","Confused",2,5,2,"Better cleanliness",2
+83,"Isha","Male","22-07-2023","Orthopedics","Frustrated",5,5,3,"More comfortable waiting area",4
+84,"Rohit","Male","10-11-2023","Nephrology","Frustrated",1,2,2,"Better cleanliness",4
+85,"Anil","Female","05-01-2023","Nephrology","Happy",5,4,4,"Improve waiting time",2
+86,"Sita","Male","10-10-2023","Cardiology","Happy",5,5,4,"More comfortable waiting area",4
+87,"Varun","Female","13-10-2023","Orthopedics","Satisfied",4,1,3,"More comfortable waiting area",5
+88,"Suresh","Female","19-12-2023","Orthopedics","Confused",3,4,3,"Staff behavior training",3
+89,"Isha","Female","08-10-2023","Orthopedics","Happy",1,5,5,"More comfortable waiting area",1
+90,"Rahul","Female","30-06-2023","Cardiology","Frustrated",5,1,3,"Improve billing clarity",1
+91,"Suresh","Male","14-05-2023","Nephrology","Confused",2,2,1,"Staff behavior training",1
+92,"Amit","Male","03-05-2023","General Medicine","Happy",3,3,3,"Better cleanliness",2
+93,"Ravi","Male","27-09-2023","Cardiology","Happy",5,4,3,"Improve waiting time",4
+94,"Sita","Male","09-04-2023","Nephrology","Confused",4,5,5,"Improve billing clarity",2
+95,"Ajay","Male","23-12-2023","Cardiology","Angry",4,5,4,"Improve billing clarity",2
+96,"Varun","Male","26-06-2023","Cardiology","Satisfied",1,1,5,"More comfortable waiting area",5
+97,"Arjun","Female","17-06-2023","Cardiology","Frustrated",3,4,3,"Staff behavior training",3
+98,"Priya","Male","24-06-2023","Cardiology","Frustrated",3,2,5,"Staff behavior training",5
+99,"Kavita","Female","08-03-2023","Nephrology","Confused",2,2,4,"Improve waiting time",5
+100,"Rohit","Male","17-02-2023","Dermatology","Confused",3,4,4,"Better cleanliness",1
+101,"Sonia","Female","23-12-2023","Nephrology","Happy",2,2,4,"Staff behavior training",3
+102,"Rina","Female","05-06-2023","Orthopedics","Confused",3,1,4,"Staff behavior training",4
+103,"Sonia","Male","07-07-2023","General Medicine","Angry",1,4,4,"Improve billing clarity",5
+104,"Sonia","Female","03-07-2023","Orthopedics","Frustrated",5,3,4,"More comfortable waiting area",2
+105,"Neha","Female","01-08-2023","Nephrology","Happy",5,2,1,"Better cleanliness",1
+106,"Ajay","Female","05-05-2023","Cardiology","Frustrated",3,3,2,"Improve waiting time",3
+107,"Varun","Male","01-10-2023","General Medicine","Frustrated",4,1,1,"Better cleanliness",2
+108,"Neha","Female","30-08-2023","Nephrology","Satisfied",3,4,1,"Improve waiting time",3
+109,"Suresh","Male","05-05-2023","Nephrology","Happy",5,3,2,"Better cleanliness",3
+110,"Amit","Male","31-08-2023","General Medicine","Satisfied",4,1,5,"More comfortable waiting area",1
+111,"Manoj","Female","06-05-2023","Nephrology","Frustrated",4,4,4,"Better cleanliness",5
+112,"Rohit","Male","09-03-2023","Nephrology","Satisfied",4,2,5,"Staff behavior training",2
+113,"Rohit","Female","10-10-2023","General Medicine","Frustrated",4,5,2,"Better cleanliness",3
+114,"Arjun","Male","05-03-2023","Dermatology","Frustrated",1,3,5,"More comfortable waiting area",2
+115,"Pooja","Female","16-09-2023","Dermatology","Satisfied",4,2,4,"Better cleanliness",1
+116,"Ravi","Male","21-08-2023","Dermatology","Frustrated",4,2,1,"Staff behavior training",3
+117,"Naveen","Female","23-09-2023","Cardiology","Frustrated",2,1,2,"More comfortable waiting area",2
+118,"Sonia","Male","11-04-2023","Nephrology","Frustrated",4,1,3,"More comfortable waiting area",3
+119,"Amit","Female","06-04-2023","Orthopedics","Frustrated",1,4,3,"Improve billing clarity",5
+120,"Sonia","Male","29-05-2023","General Medicine","Angry",1,5,1,"Better cleanliness",1
+121,"Pooja","Male","04-06-2023","Orthopedics","Frustrated",1,3,5,"Staff behavior training",5
+122,"Anil","Male","27-05-2023","Nephrology","Confused",3,3,5,"More comfortable waiting area",2
+123,"Sonia","Male","06-02-2023","Cardiology","Confused",2,1,5,"Better cleanliness",1
+124,"Amit","Male","24-02-2023","Orthopedics","Confused",2,3,1,"Better cleanliness",3
+125,"Isha","Female","20-05-2023","Nephrology","Frustrated",5,3,3,"Improve billing clarity",5
+126,"Rahul","Female","11-01-2023","Nephrology","Frustrated",1,2,2,"Improve billing clarity",2
+127,"Pooja","Male","09-07-2023","Dermatology","Satisfied",2,5,3,"Staff behavior training",1
+128,"Varun","Male","22-12-2023","Orthopedics","Angry",1,5,4,"Improve billing clarity",3
+129,"Amit","Male","31-01-2023","Cardiology","Angry",5,1,3,"Improve billing clarity",4
+130,"Amit","Female","02-08-2023","Dermatology","Satisfied",2,1,4,"Improve waiting time",2
+131,"Pooja","Male","09-11-2023","Nephrology","Confused",3,4,1,"Staff behavior training",2
+132,"Sita","Female","23-09-2023","General Medicine","Frustrated",5,2,3,"Better cleanliness",2
+133,"Anil","Female","07-01-2023","Nephrology","Confused",4,4,2,"Improve waiting time",2
+134,"Sita","Female","06-01-2023","Orthopedics","Confused",2,4,2,"Better cleanliness",1
+135,"Amit","Female","17-08-2023","Dermatology","Happy",1,2,4,"Better cleanliness",5
+136,"Varun","Female","29-01-2023","Cardiology","Confused",2,2,3,"Improve waiting time",4
+137,"Kavita","Female","14-01-2023","Cardiology","Satisfied",2,3,2,"More comfortable waiting area",4
+138,"Sonia","Male","20-08-2023","Cardiology","Satisfied",1,2,4,"More comfortable waiting area",3
+139,"Arjun","Male","19-02-2023","General Medicine","Happy",5,5,5,"Improve waiting time",3
+140,"Rohit","Female","20-11-2023","Nephrology","Confused",5,3,5,"Improve billing clarity",3
+141,"Rahul","Female","16-03-2023","General Medicine","Satisfied",1,1,2,"Staff behavior training",4
+142,"Priya","Female","04-03-2023","Orthopedics","Satisfied",5,2,2,"Improve billing clarity",1
+143,"Arjun","Male","09-08-2023","Nephrology","Confused",4,3,2,"Staff behavior training",3
+144,"Isha","Female","09-08-2023","Nephrology","Angry",3,4,5,"More comfortable waiting area",2
+145,"Sita","Male","30-08-2023","Orthopedics","Confused",2,5,2,"Better cleanliness",2
+146,"Sita","Female","05-10-2023","General Medicine","Happy",1,4,4,"Better cleanliness",1
+147,"Isha","Female","26-02-2023","Orthopedics","Happy",3,1,1,"Improve waiting time",5
+148,"Suresh","Male","04-08-2023","Cardiology","Happy",1,1,2,"Staff behavior training",1
+149,"Rahul","Male","22-08-2023","Nephrology","Satisfied",3,2,4,"More comfortable waiting area",1
+150,"Anil","Female","01-01-2023","Cardiology","Happy",3,1,5,"Better cleanliness",3
+151,"Rohit","Female","04-01-2023","Dermatology","Frustrated",2,4,1,"Better cleanliness",4
+152,"Amit","Male","12-08-2023","Dermatology","Frustrated",5,2,5,"Staff behavior training",5
+153,"Anil","Female","04-09-2023","Orthopedics","Satisfied",2,2,1,"More comfortable waiting area",2
+154,"Kavita","Male","21-06-2023","Nephrology","Frustrated",3,4,5,"Staff behavior training",2
+155,"Sita","Male","28-04-2023","Orthopedics","Confused",1,2,5,"Staff behavior training",4
+156,"Anil","Male","30-03-2023","Nephrology","Frustrated",4,5,4,"Staff behavior training",3
+157,"Anil","Male","20-09-2023","Cardiology","Frustrated",1,2,5,"Staff behavior training",3
+158,"Pooja","Female","27-03-2023","Nephrology","Angry",4,5,4,"Better cleanliness",5
+159,"Amit","Female","18-05-2023","Orthopedics","Frustrated",3,5,3,"Better cleanliness",3
+160,"Varun","Male","13-08-2023","General Medicine","Confused",1,3,3,"More comfortable waiting area",4
+161,"Sonia","Male","27-05-2023","Cardiology","Happy",3,1,2,"Improve billing clarity",5
+162,"Manoj","Male","20-07-2023","General Medicine","Frustrated",1,5,3,"More comfortable waiting area",2
+163,"Pooja","Male","14-02-2023","Orthopedics","Frustrated",1,5,4,"Staff behavior training",5
+164,"Rohit","Male","09-12-2023","Cardiology","Confused",4,2,4,"Staff behavior training",3
+165,"Sonia","Male","07-07-2023","General Medicine","Satisfied",2,5,3,"Improve waiting time",2
+166,"Anil","Female","06-01-2023","General Medicine","Angry",2,5,3,"Staff behavior training",4
+167,"Anil","Male","13-03-2023","General Medicine","Angry",3,4,3,"Staff behavior training",4
+168,"Anil","Male","25-07-2023","General Medicine","Angry",4,1,4,"Improve billing clarity",3
+169,"Ravi","Female","05-05-2023","Orthopedics","Confused",4,5,1,"Improve waiting time",4
+170,"Kavita","Male","12-08-2023","Nephrology","Confused",5,3,5,"More comfortable waiting area",2
+171,"Ravi","Male","18-04-2023","Dermatology","Confused",1,1,5,"More comfortable waiting area",5
+172,"Ajay","Male","23-03-2023","Dermatology","Confused",2,1,2,"Staff behavior training",4
+173,"Rina","Male","14-05-2023","Orthopedics","Happy",5,2,4,"Staff behavior training",1
+174,"Arjun","Male","05-10-2023","Cardiology","Confused",1,1,2,"Improve waiting time",2
+175,"Kavita","Female","14-10-2023","Orthopedics","Satisfied",5,5,2,"Better cleanliness",1
+176,"Arjun","Male","17-01-2023","Orthopedics","Happy",1,2,2,"Staff behavior training",3
+177,"Naveen","Female","22-12-2023","General Medicine","Satisfied",4,1,3,"Staff behavior training",4
+178,"Anjali","Male","06-06-2023","Nephrology","Frustrated",2,1,3,"Staff behavior training",2
+179,"Naveen","Female","13-01-2023","Cardiology","Frustrated",2,4,3,"Improve waiting time",3
+180,"Varun","Male","20-02-2023","Cardiology","Confused",5,5,4,"Staff behavior training",4
+181,"Isha","Female","11-03-2023","Dermatology","Confused",2,1,5,"Improve billing clarity",3
+182,"Pooja","Female","19-10-2023","Dermatology","Happy",4,4,3,"Improve waiting time",5
+183,"Suresh","Female","10-12-2023","Dermatology","Confused",4,3,1,"Staff behavior training",5
+184,"Neha","Male","13-06-2023","Orthopedics","Satisfied",4,1,3,"Staff behavior training",5
+185,"Anjali","Female","24-01-2023","Cardiology","Frustrated",3,2,4,"Staff behavior training",4
+186,"Rina","Female","22-04-2023","Orthopedics","Happy",1,5,5,"Improve billing clarity",5
+187,"Varun","Male","28-02-2023","Nephrology","Frustrated",4,2,3,"Improve billing clarity",4
+188,"Isha","Female","15-09-2023","Cardiology","Satisfied",5,5,4,"More comfortable waiting area",2
+189,"Anil","Female","04-09-2023","Cardiology","Satisfied",2,2,4,"Improve waiting time",1
+190,"Anil","Male","17-02-2023","Cardiology","Angry",3,1,1,"Better cleanliness",4
+191,"Arjun","Male","17-03-2023","Nephrology","Angry",3,2,3,"Improve billing clarity",5
+192,"Pooja","Female","07-09-2023","Orthopedics","Happy",3,3,4,"Improve billing clarity",1
+193,"Pooja","Male","22-07-2023","General Medicine","Happy",3,5,1,"Better cleanliness",3
+194,"Manoj","Female","23-04-2023","General Medicine","Happy",4,2,3,"Better cleanliness",1
+195,"Sonia","Female","19-12-2023","Orthopedics","Happy",1,5,5,"Improve billing clarity",2
+196,"Kavita","Female","20-03-2023","Orthopedics","Confused",3,1,2,"Improve billing clarity",3
+197,"Naveen","Male","04-12-2023","General Medicine","Frustrated",1,5,2,"Improve waiting time",2
+198,"Suresh","Male","14-09-2023","Nephrology","Frustrated",5,3,1,"Staff behavior training",5
+199,"Sita","Female","10-03-2023","Orthopedics","Confused",1,3,3,"Improve waiting time",4
+200,"Suresh","Male","26-01-2023","General Medicine","Satisfied",5,1,4,"More comfortable waiting area",4
