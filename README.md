@@ -66,8 +66,8 @@ Jayant Sharma
 Role: Developer
 Email: jayantsharma2703@gmail.com
 LinkedIn: Jayant Sharma
-Harshita Ahuja
 
+Harshita Ahuja
 Role: Co-Developer
 Email: harshiahuja075@gmail.com
 License
