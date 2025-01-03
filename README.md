@@ -1,4 +1,5 @@
-# -आशयः (Patient Sentiment Analysis)
+# -(https://www.qminder.com/resources/img/generated/resources/img/blog/importance-patient-satisfaction-1024-de5f604b2.webp)
+आशयः (Patient Sentiment Analysis)
 आशयः is a Shiny-based web application for patient sentiment analysis. It provides tools for dataset upload, machine learning model training, prediction, and data visualization. The app features Google OAuth for user authentication, ensuring secure access.
 
 Features
