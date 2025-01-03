@@ -93,4 +93,3 @@ License
 This project is licensed under the MIT License.
 
 
-आशयः app allows you to upload a dataset, train a predictive model, make predictions, and visualize the data .
